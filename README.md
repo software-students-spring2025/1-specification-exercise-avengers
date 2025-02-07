@@ -6,8 +6,8 @@ A little exercise to get started with the specification phase of the software de
 
 - Iva Park: https://github.com/ivapark
 - Chrisim Kim: https://github.com/ChrisimKim
-- Tim Xu:
-- Joel Kim:
+- Tim Xu: https://github.com/timxu23
+- Joel Kim: https://github.com/joel-d-kim/
 
 ## Stakeholders
 
