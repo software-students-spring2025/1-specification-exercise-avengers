@@ -4,42 +4,44 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-- Iva Park:
+- Iva Park: https://github.com/ivapark
 - Chrisim Kim: https://github.com/ChrisimKim
 - Tim Xu:
 - Joel Kim:
 
 ## Stakeholders
 
-Saige Cho
-Frequent home-cooker
-Four goals/needs:
+### Saige Cho: Frequent home-cooker\*\*
 
-- inspiration photos from feed
-- ability to view influencers/famous people’s daily eating habits
-- quick and easy engagement (passive or informative rather than requirement of constant interaction
-- aesthetic and lifestyle oriented approach
+<u>Four goals/needs:</u>
 
-Four problems/frustrations:
+- Inspiration photos from feed
+- Ability to view influencers/famous people’s daily eating habits
+- Quick and easy engagement (passive or informative rather than requirement of constant interaction)
+- Aesthetic and lifestyle oriented approach
 
-- lack of inspiration for meals
-- limited time for cooking
-- difficulty using up all ingredients before they go bad
-- not in apps that is only convenient; wants aesthetics components.
+<u>Four problems/frustrations:</u>
 
-Grace
-Infrequent home cook
-Four goals/needs:
+- Lack of inspiration for meals
+- Limited time for cooking
+- Difficulty using up all ingredients before they go bad
+- Not using apps that are only convenient; wants aesthetics components.
 
-- develop a repertoire of quick, easy, and healthy meals
-- log cooking progress and consistency
-- being held accountable for own food choices
-- sense of cooking community
-  Four problems/frustrations:
-- lack of cooking inspiration (not knowing what to cook)
-- lack of motivation to cook
-- difficulty in staying consistent
-- cooking boring, bland meals
+### Grace: Infrequent home cook\*\*
+
+<u>Four goals/needs:</u>
+
+- Develop a repertoire of quick, easy, and healthy meals
+- Log cooking progress and consistency
+- Being held accountable for own food choices
+- Sense of cooking community
+
+<u>Four problems/frustrations:</u>
+
+- Lack of cooking inspiration (not knowing what to cook)
+- Lack of motivation to cook
+- Difficulty in staying consistent
+- Cooking boring, bland meals
 
 ## Product Vision Statement
 
@@ -69,7 +71,13 @@ Our app encourages home-cooking through a social space where users can share rec
 
 ## Activity Diagrams
 
-![Activity Diagram](images/Groupe.png)
+### UML Diagram 1
+
+![UML Diagram 1](UMLDiagram1.png)
+
+### UML Diagram 2
+
+![UML Diagram 2](UMLDiagram2.png)
 
 ## Clickable Prototype
 
