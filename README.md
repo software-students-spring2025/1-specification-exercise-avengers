@@ -76,14 +76,14 @@ Our app encourages home-cooking through a social space where users can share rec
 **User Story:**
 As a first-time cooker, I want learn recipes and tips so that I could become a better cook.
 
-![UML Diagram 1](1-SPECIFICATION-EXERCISE/UMLDiagram1.png)
+![UML Diagram 1](/UMLDiagram1.png)
 
 ### UML Diagram 2
 
 **User Story:**
 As a person living alone, I want to connect with other home cooks so that I can share meal ideas and tips.
 
-![UML Diagram 2](1-SPECIFICATION-EXERCISE/UMLDiagram2.png)
+![UML Diagram 2](/UMLDiagram2.png)
 
 ## Clickable Prototype
 
