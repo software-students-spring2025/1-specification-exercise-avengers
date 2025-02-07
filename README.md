@@ -11,32 +11,32 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-### Saige Cho: Frequent home-cooker\*\*
+### Saige Cho: Frequent home-cooker
 
-<u>Four goals/needs:</u>
+**_Four goals/needs:_**
 
 - Inspiration photos from feed
 - Ability to view influencers/famous people’s daily eating habits
 - Quick and easy engagement (passive or informative rather than requirement of constant interaction)
 - Aesthetic and lifestyle oriented approach
 
-<u>Four problems/frustrations:</u>
+**_Four problems/frustrations:_**
 
 - Lack of inspiration for meals
 - Limited time for cooking
 - Difficulty using up all ingredients before they go bad
 - Not using apps that are only convenient; wants aesthetics components.
 
-### Grace: Infrequent home cook\*\*
+### Grace: Infrequent home cook
 
-<u>Four goals/needs:</u>
+**_Four goals/needs:_**
 
 - Develop a repertoire of quick, easy, and healthy meals
 - Log cooking progress and consistency
 - Being held accountable for own food choices
 - Sense of cooking community
 
-<u>Four problems/frustrations:</u>
+**_Four problems/frustrations:_**
 
 - Lack of cooking inspiration (not knowing what to cook)
 - Lack of motivation to cook
@@ -73,12 +73,18 @@ Our app encourages home-cooking through a social space where users can share rec
 
 ### UML Diagram 1
 
+**User Story:**
+As a first-time cooker, I want learn recipes and tips so that I could become a better cook.
+
 ![UML Diagram 1](UMLDiagram1.png)
 
 ### UML Diagram 2
+
+**User Story:**
+As a person living alone, I want to connect with other home cooks so that I can share meal ideas and tips.
 
 ![UML Diagram 2](UMLDiagram2.png)
 
 ## Clickable Prototype
 
-https://www.figma.com/proto/I2Ae23Gddff7oIJzZ8cxHG/Team-Avengers?node-id=32-93&p=f&t=BIyI0e3F3OBOrA6w-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A365&starting-point-node-id=32%3A6
+[Click here to see our prototype!](https://www.figma.com/proto/I2Ae23Gddff7oIJzZ8cxHG/Team-Avengers?node-id=32-93&p=f&t=BIyI0e3F3OBOrA6w-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A365&starting-point-node-id=32%3A6)
