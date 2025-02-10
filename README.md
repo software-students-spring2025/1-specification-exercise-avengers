@@ -87,4 +87,4 @@ As a person living alone, I want to connect with other home cooks so that I can 
 
 ## Clickable Prototype
 
-[Click here to see our prototype!](https://www.figma.com/design/I2Ae23Gddff7oIJzZ8cxHG/Team-Avengers?node-id=1-365&t=ENX7ccAw6XOBgcjk-1)
+[Click here to see our prototype!](https://www.figma.com/proto/I2Ae23Gddff7oIJzZ8cxHG/Team-Avengers?node-id=32-93&p=f&t=7IAk9uBckC5Dym7f-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A365&starting-point-node-id=32%3A6)
