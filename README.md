@@ -27,7 +27,7 @@ A little exercise to get started with the specification phase of the software de
 - Difficulty using up all ingredients before they go bad
 - Not using apps that are only convenient; wants aesthetics components.
 
-### Grace: Infrequent home cook
+### Grace Ableidinger: Infrequent home cook
 
 **_Four goals/needs:_**
 
